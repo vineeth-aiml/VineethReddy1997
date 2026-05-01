@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hey there, I'm <span style="color:#0078FF;">Vineeth Reddy</span>  
-### 🚀 Passionate Software Developer | Data Engineer | AI & ML Enthusiast  
+### 🚀 Passionate Software Developer | Data Engineer | AI & ML Enthusiast
 
 ---
 
