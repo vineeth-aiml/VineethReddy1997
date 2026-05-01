@@ -27,7 +27,6 @@
 - Solving challenges on **LeetCode, HackerRank, NeetCode** consistently  
 - Exploring **System Design**, **Advanced Machine Learning**, and **Full Stack AI Development**
 
-
 ---
 
 ## 💬 Ask Me About
@@ -38,7 +37,8 @@
 
 ## 🌐 Connect With Me
 <div align="center">
-<a href="https://linkedin.com/in/vineethreddy1997"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vineethr-aiml/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vineeth-aiml"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/vineeth_reddy_1013"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.leetcode.com/vineethreddy07"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/vineethreddygan2"><img src="https://img.shields.io/badge/HackerRank-%231BA94C.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -77,13 +77,14 @@
 ---
 
 ## ⚡ Fun Fact  
-> I can code for hours — but also love relaxing with a Hollywood movies & filter coffee 😄
+> I can code for hours — but also love relaxing with Hollywood movies & filter coffee 😄
+
 ---
 
 <div align="center">
   
 ⭐ **Thanks for visiting!** Drop a star ⭐ on my repos if you find something cool!  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vineethreddy1997&label=Profile+Views&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=vineeth-aiml&label=Profile+Views&color=blue&style=flat-square)
 
 </div>
