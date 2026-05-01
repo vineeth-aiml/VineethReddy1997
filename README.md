@@ -69,16 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Vineeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VineethReddy1997&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VineethReddy1997&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## ☕ Support My Work
 <p align="center">
 <a href="https://www.buymeacoffee.com/vineethreddy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="Buy me a coffee" /></a>
