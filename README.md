@@ -4,8 +4,6 @@
 # 👋 Hey there, I'm <span style="color:#0078FF;">Vineeth Reddy</span>  
 ### 🚀 Passionate Software Developer | Data Engineer | AI & ML Enthusiast  
 
-![Profile Banner](https://github.com/VineethReddy1997/VineethReddy1997/blob/master/7093987023%20(1).jpg)
-
 ---
 
 💡 *Turning ideas into intelligent systems with Python, AI, and scalable backend magic.*
